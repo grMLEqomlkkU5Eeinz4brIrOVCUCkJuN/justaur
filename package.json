@@ -1,0 +1,32 @@
+{
+	"name": "justaur",
+	"version": "0.0.0",
+	"type": "module",
+	"description": "A CLI built with Crust",
+	"files": [
+		"dist/cli",
+		"dist/cli.cmd",
+		"dist/*-bun-*"
+	],
+	"bin": {
+		"justaur": "dist/cli"
+	},
+	"scripts": {
+		"dev": "bun run src/cli.ts",
+		"build": "crust build",
+		"package": "crust build --package",
+		"publish": "crust publish --stage-dir dist/npm",
+		"start": "./dist/cli",
+		"check:types": "tsc --noEmit"
+	},
+	"devDependencies": {
+		"@crustjs/core": "latest",
+		"@crustjs/crust": "latest",
+		"@crustjs/plugins": "latest",
+		"@types/bun": "latest",
+		"typescript": "^6"
+	},
+	"dependencies": {
+		"nodeaur": "^1.0.0"
+	}
+}
