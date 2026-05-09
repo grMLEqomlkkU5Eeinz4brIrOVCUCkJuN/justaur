@@ -1,0 +1,6 @@
+local/cef 147.0.10-1
+    Chromium Embedded Framework (CEF), simple framework for embedding Chromium-based browsers in other applications
+local/chromium 148.0.7778.96-1
+    A web browser built for speed, simplicity, and security
+local/qt6-webengine 6.11.0-5 (qt6)
+    Provides support for web applications using the Chromium browser project

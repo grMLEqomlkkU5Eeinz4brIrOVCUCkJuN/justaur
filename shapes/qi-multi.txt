@@ -1,0 +1,48 @@
+Name            : chromium
+Version         : 148.0.7778.96-1
+Description     : A web browser built for speed, simplicity, and security
+Architecture    : x86_64
+URL             : https://www.chromium.org/Home
+Licenses        : BSD-3-Clause
+Groups          : None
+Provides        : None
+Depends On      : alsa-lib  dbus  desktop-file-utils  gtk3  hicolor-icon-theme  libcups  libffi  libgcrypt  libpulse  libva  libxss  nss  pciutils  systemd  ttf-liberation  xdg-utils  fontconfig  brotli  libjpeg-turbo  flac  libxml2  libwebp  minizip  opus  libxslt  harfbuzz  freetype2
+Optional Deps   : pipewire: WebRTC desktop sharing under Wayland [installed]
+                  kdialog: support for native dialogs in Plasma [installed]
+                  gtk4: for --gtk-version=4 (GTK4 IME might work better on Wayland) [installed]
+                  org.freedesktop.secrets: password storage backend on GNOME, KDE and Xfce [installed]
+                  upower: Battery Status API support [installed]
+Required By     : None
+Optional For    : None
+Conflicts With  : None
+Replaces        : None
+Installed Size  : 401.71 MiB
+Packager        : Christian Heusel <gromit@archlinux.org>
+Build Date      : Wed 06 May 2026 08:08:23 AM +08
+Install Date    : Thu 07 May 2026 09:26:10 PM +08
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
+
+Name            : bash
+Version         : 5.3.9-1
+Description     : The GNU Bourne Again shell
+Architecture    : x86_64
+URL             : https://www.gnu.org/software/bash/bash.html
+Licenses        : GPL-3.0-or-later
+Groups          : None
+Provides        : sh
+Depends On      : readline  libreadline.so=8-64  glibc  ncurses
+Optional Deps   : bash-completion: for tab completion
+Required By     : archivetools  ardour  at-spi2-core  audit  aurorae  autoconf  automake  avahi  base  bashtop  bison  bzip2  ca-certificates-utils  cairo  cpupower  cups-filters  db5.3  dconf  diffutils  e2fsprogs  ebook-tools  elfutils  fakeroot  fftw  flatpak  flex  fontconfig  gawk  gdb  gdbm  gettext  ghostscript  glib2  gnome-settings-daemon  gnome-shell  gnupg  gpm  gradle  grub  gsl  gtk-doc  gtk-update-icon-cache  gtk4  gzip  hdf5  hunspell  hyprshot  icu  ijs  iptables  java-runtime-common  js140  kde-cli-tools  keyutils  kio-extras  krb5  libassuan  libcups  libdca  libftdi  libgpg-error  libgphoto2  libksba  libmakepkg-dropins  libmbim  libnet  libpcap  libpng  libpulse  libqmi  libteam  libtool  libusb-compat  libvirt  libxml2  libxslt  lm_sensors  man-db  maven  mbedtls  meson  mjpegtools  mkinitcpio  modemmanager  neofetch  netpbm  nim  npth  nspr  nss  onlyoffice-bin  openresolv  os-prober  ostree  pacman  pahole  pcre  pipes.sh  pipewire-jack  plasma-workspace  postman-bin  pps-tools  python-pywal16  sane  sbt  sddm  smartmontools  source-highlight  spirv-tools  srt  systemd  taglib  texinfo  translate-shell  unzip  uwsm  vlc  vlc-cli  vlc-gui-qt  which  wireguard-tools  wireless-regdb  wxwidgets-gtk3  xdg-utils  xorg-server  xorg-xinit  xz
+Optional For    : alsa-utils  kitty-shell-integration  mdadm  ncurses  openssh  pcre2  tzdata  usbutils  vim-runtime
+Conflicts With  : None
+Replaces        : None
+Installed Size  : 9.56 MiB
+Packager        : Tobias Powalowski <tpowa@archlinux.org>
+Build Date      : Thu 11 Dec 2025 06:02:55 AM +08
+Install Date    : Sun 14 Dec 2025 06:32:03 PM +08
+Install Reason  : Installed as a dependency for another package
+Install Script  : Yes
+Validated By    : Signature
+

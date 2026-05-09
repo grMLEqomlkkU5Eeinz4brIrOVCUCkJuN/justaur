@@ -1,0 +1,686 @@
+extra-testing/firefox 150.0.2-1
+    Fast, Private & Safe Web Browser
+extra-testing/firefox-i18n-ach 150.0.2-1
+    Acholi language pack for Firefox
+extra-testing/firefox-i18n-af 150.0.2-1
+    Afrikaans language pack for Firefox
+extra-testing/firefox-i18n-an 150.0.2-1
+    Aragonese language pack for Firefox
+extra-testing/firefox-i18n-ar 150.0.2-1
+    Arabic language pack for Firefox
+extra-testing/firefox-i18n-ast 150.0.2-1
+    Asturian language pack for Firefox
+extra-testing/firefox-i18n-az 150.0.2-1
+    Azerbaijani language pack for Firefox
+extra-testing/firefox-i18n-be 150.0.2-1
+    Belarusian language pack for Firefox
+extra-testing/firefox-i18n-bg 150.0.2-1
+    Bulgarian language pack for Firefox
+extra-testing/firefox-i18n-bn 150.0.2-1
+    Bengali language pack for Firefox
+extra-testing/firefox-i18n-br 150.0.2-1
+    Breton language pack for Firefox
+extra-testing/firefox-i18n-bs 150.0.2-1
+    Bosnian language pack for Firefox
+extra-testing/firefox-i18n-ca 150.0.2-1
+    Catalan language pack for Firefox
+extra-testing/firefox-i18n-ca-valencia 150.0.2-1
+    Catalan (Valencian) language pack for Firefox
+extra-testing/firefox-i18n-cak 150.0.2-1
+    Maya Kaqchikel language pack for Firefox
+extra-testing/firefox-i18n-cs 150.0.2-1
+    Czech language pack for Firefox
+extra-testing/firefox-i18n-cy 150.0.2-1
+    Welsh language pack for Firefox
+extra-testing/firefox-i18n-da 150.0.2-1
+    Danish language pack for Firefox
+extra-testing/firefox-i18n-de 150.0.2-1
+    German language pack for Firefox
+extra-testing/firefox-i18n-dsb 150.0.2-1
+    Lower Sorbian language pack for Firefox
+extra-testing/firefox-i18n-el 150.0.2-1
+    Greek language pack for Firefox
+extra-testing/firefox-i18n-en-ca 150.0.2-1
+    English (Canadian) language pack for Firefox
+extra-testing/firefox-i18n-en-gb 150.0.2-1
+    English (British) language pack for Firefox
+extra-testing/firefox-i18n-en-us 150.0.2-1
+    English (US) language pack for Firefox
+extra-testing/firefox-i18n-eo 150.0.2-1
+    Esperanto language pack for Firefox
+extra-testing/firefox-i18n-es-ar 150.0.2-1
+    Spanish (Argentina) language pack for Firefox
+extra-testing/firefox-i18n-es-cl 150.0.2-1
+    Spanish (Chile) language pack for Firefox
+extra-testing/firefox-i18n-es-es 150.0.2-1
+    Spanish (Spain) language pack for Firefox
+extra-testing/firefox-i18n-es-mx 150.0.2-1
+    Spanish (Mexico) language pack for Firefox
+extra-testing/firefox-i18n-et 150.0.2-1
+    Estonian language pack for Firefox
+extra-testing/firefox-i18n-eu 150.0.2-1
+    Basque language pack for Firefox
+extra-testing/firefox-i18n-fa 150.0.2-1
+    Persian language pack for Firefox
+extra-testing/firefox-i18n-ff 150.0.2-1
+    Fulah language pack for Firefox
+extra-testing/firefox-i18n-fi 150.0.2-1
+    Finnish language pack for Firefox
+extra-testing/firefox-i18n-fr 150.0.2-1
+    French language pack for Firefox
+extra-testing/firefox-i18n-fur 150.0.2-1
+    Friulian language pack for Firefox
+extra-testing/firefox-i18n-fy-nl 150.0.2-1
+    Frisian language pack for Firefox
+extra-testing/firefox-i18n-ga-ie 150.0.2-1
+    Irish language pack for Firefox
+extra-testing/firefox-i18n-gd 150.0.2-1
+    Gaelic (Scotland) language pack for Firefox
+extra-testing/firefox-i18n-gl 150.0.2-1
+    Galician language pack for Firefox
+extra-testing/firefox-i18n-gn 150.0.2-1
+    Guarani language pack for Firefox
+extra-testing/firefox-i18n-gu-in 150.0.2-1
+    Gujarati (India) language pack for Firefox
+extra-testing/firefox-i18n-he 150.0.2-1
+    Hebrew language pack for Firefox
+extra-testing/firefox-i18n-hi-in 150.0.2-1
+    Hindi (India) language pack for Firefox
+extra-testing/firefox-i18n-hr 150.0.2-1
+    Croatian language pack for Firefox
+extra-testing/firefox-i18n-hsb 150.0.2-1
+    Upper Sorbian language pack for Firefox
+extra-testing/firefox-i18n-hu 150.0.2-1
+    Hungarian language pack for Firefox
+extra-testing/firefox-i18n-hy-am 150.0.2-1
+    Armenian language pack for Firefox
+extra-testing/firefox-i18n-ia 150.0.2-1
+    Interlingua language pack for Firefox
+extra-testing/firefox-i18n-id 150.0.2-1
+    Indonesian language pack for Firefox
+extra-testing/firefox-i18n-is 150.0.2-1
+    Icelandic language pack for Firefox
+extra-testing/firefox-i18n-it 150.0.2-1
+    Italian language pack for Firefox
+extra-testing/firefox-i18n-ja 150.0.2-1
+    Japanese language pack for Firefox
+extra-testing/firefox-i18n-ka 150.0.2-1
+    Georgian language pack for Firefox
+extra-testing/firefox-i18n-kab 150.0.2-1
+    Kabyle language pack for Firefox
+extra-testing/firefox-i18n-kk 150.0.2-1
+    Kazakh language pack for Firefox
+extra-testing/firefox-i18n-km 150.0.2-1
+    Khmer language pack for Firefox
+extra-testing/firefox-i18n-kn 150.0.2-1
+    Kannada language pack for Firefox
+extra-testing/firefox-i18n-ko 150.0.2-1
+    Korean language pack for Firefox
+extra-testing/firefox-i18n-lij 150.0.2-1
+    Ligurian language pack for Firefox
+extra-testing/firefox-i18n-lt 150.0.2-1
+    Lithuanian language pack for Firefox
+extra-testing/firefox-i18n-lv 150.0.2-1
+    Latvian language pack for Firefox
+extra-testing/firefox-i18n-mk 150.0.2-1
+    Macedonian language pack for Firefox
+extra-testing/firefox-i18n-mr 150.0.2-1
+    Marathi language pack for Firefox
+extra-testing/firefox-i18n-ms 150.0.2-1
+    Malay language pack for Firefox
+extra-testing/firefox-i18n-my 150.0.2-1
+    Burmese language pack for Firefox
+extra-testing/firefox-i18n-nb-no 150.0.2-1
+    Norwegian (Bokmål) language pack for Firefox
+extra-testing/firefox-i18n-ne-np 150.0.2-1
+    Nepali language pack for Firefox
+extra-testing/firefox-i18n-nl 150.0.2-1
+    Dutch language pack for Firefox
+extra-testing/firefox-i18n-nn-no 150.0.2-1
+    Norwegian (Nynorsk) language pack for Firefox
+extra-testing/firefox-i18n-oc 150.0.2-1
+    Occitan language pack for Firefox
+extra-testing/firefox-i18n-pa-in 150.0.2-1
+    Punjabi (India) language pack for Firefox
+extra-testing/firefox-i18n-pl 150.0.2-1
+    Polish language pack for Firefox
+extra-testing/firefox-i18n-pt-br 150.0.2-1
+    Portuguese (Brazilian) language pack for Firefox
+extra-testing/firefox-i18n-pt-pt 150.0.2-1
+    Portuguese (Portugal) language pack for Firefox
+extra-testing/firefox-i18n-rm 150.0.2-1
+    Romansh language pack for Firefox
+extra-testing/firefox-i18n-ro 150.0.2-1
+    Romanian language pack for Firefox
+extra-testing/firefox-i18n-ru 150.0.2-1
+    Russian language pack for Firefox
+extra-testing/firefox-i18n-sat 150.0.2-1
+    Santali language pack for Firefox
+extra-testing/firefox-i18n-sc 150.0.2-1
+    Sardinian language pack for Firefox
+extra-testing/firefox-i18n-sco 150.0.2-1
+    Scots language pack for Firefox
+extra-testing/firefox-i18n-si 150.0.2-1
+    Sinhala language pack for Firefox
+extra-testing/firefox-i18n-sk 150.0.2-1
+    Slovak language pack for Firefox
+extra-testing/firefox-i18n-skr 150.0.2-1
+    Saraiki language pack for Firefox
+extra-testing/firefox-i18n-sl 150.0.2-1
+    Slovenian language pack for Firefox
+extra-testing/firefox-i18n-son 150.0.2-1
+    Songhai language pack for Firefox
+extra-testing/firefox-i18n-sq 150.0.2-1
+    Albanian language pack for Firefox
+extra-testing/firefox-i18n-sr 150.0.2-1
+    Serbian language pack for Firefox
+extra-testing/firefox-i18n-sv-se 150.0.2-1
+    Swedish language pack for Firefox
+extra-testing/firefox-i18n-szl 150.0.2-1
+    Silesian language pack for Firefox
+extra-testing/firefox-i18n-ta 150.0.2-1
+    Tamil language pack for Firefox
+extra-testing/firefox-i18n-te 150.0.2-1
+    Telugu language pack for Firefox
+extra-testing/firefox-i18n-tg 150.0.2-1
+    Tajik language pack for Firefox
+extra-testing/firefox-i18n-th 150.0.2-1
+    Thai language pack for Firefox
+extra-testing/firefox-i18n-tl 150.0.2-1
+    Tagalog language pack for Firefox
+extra-testing/firefox-i18n-tr 150.0.2-1
+    Turkish language pack for Firefox
+extra-testing/firefox-i18n-trs 150.0.2-1
+    Chicahuaxtla Triqui language pack for Firefox
+extra-testing/firefox-i18n-uk 150.0.2-1
+    Ukrainian language pack for Firefox
+extra-testing/firefox-i18n-ur 150.0.2-1
+    Urdu language pack for Firefox
+extra-testing/firefox-i18n-uz 150.0.2-1
+    Uzbek language pack for Firefox
+extra-testing/firefox-i18n-vi 150.0.2-1
+    Vietnamese language pack for Firefox
+extra-testing/firefox-i18n-xh 150.0.2-1
+    Xhosa language pack for Firefox
+extra-testing/firefox-i18n-zh-cn 150.0.2-1
+    Chinese (Simplified) language pack for Firefox
+extra-testing/firefox-i18n-zh-tw 150.0.2-1
+    Chinese (Traditional) language pack for Firefox
+extra/browserpass-firefox 3.11.0-1 (firefox-addons)
+    Firefox extension for Browserpass, browser extension for zx2c4's pass (password manager)
+extra/curl-impersonate 1.5.6-1
+    A build of curl that impersonates four major browsers: Chrome, Edge, Safari & Firefox
+extra/dump_syms 2.3.7-1
+    Symbol dumper for Firefox
+extra/firefox 150.0.1-1
+    Fast, Private & Safe Web Browser
+extra/firefox-adblock-plus 4.31.1-1 (firefox-addons)
+    Extension for firefox which blocks ads and banners
+extra/firefox-dark-reader 4.9.124-1 (firefox-addons)
+    Inverts brightness of web pages and aims to reduce eyestrain while browsing the web
+extra/firefox-decentraleyes 3.0.0-1 (firefox-addons)
+    Local emulation of Content Delivery Networks
+extra/firefox-developer-edition 151.0b8-1
+    Fast, Private & Safe Web Browser (Developer Edition)
+extra/firefox-developer-edition-i18n-ach 151.0b8-1
+    Acholi language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-af 151.0b8-1
+    Afrikaans language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-an 151.0b8-1
+    Aragonese language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ar 151.0b8-1
+    Arabic language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ast 151.0b8-1
+    Asturian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-az 151.0b8-1
+    Azerbaijani language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-be 151.0b8-1
+    Belarusian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-bg 151.0b8-1
+    Bulgarian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-bn 151.0b8-1
+    Bengali language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-br 151.0b8-1
+    Breton language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-bs 151.0b8-1
+    Bosnian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ca 151.0b8-1
+    Catalan language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ca-valencia 151.0b8-1
+    Catalan (Valencian) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-cak 151.0b8-1
+    Maya Kaqchikel language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-cs 151.0b8-1
+    Czech language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-cy 151.0b8-1
+    Welsh language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-da 151.0b8-1
+    Danish language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-de 151.0b8-1
+    German language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-dsb 151.0b8-1
+    Lower Sorbian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-el 151.0b8-1
+    Greek language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-en-ca 151.0b8-1
+    English (Canadian) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-en-gb 151.0b8-1
+    English (British) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-en-us 151.0b8-1
+    English (US) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-eo 151.0b8-1
+    Esperanto language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-es-ar 151.0b8-1
+    Spanish (Argentina) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-es-cl 151.0b8-1
+    Spanish (Chile) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-es-es 151.0b8-1
+    Spanish (Spain) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-es-mx 151.0b8-1
+    Spanish (Mexico) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-et 151.0b8-1
+    Estonian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-eu 151.0b8-1
+    Basque language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-fa 151.0b8-1
+    Persian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ff 151.0b8-1
+    Fulah language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-fi 151.0b8-1
+    Finnish language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-fr 151.0b8-1
+    French language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-fur 151.0b8-1
+    Friulian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-fy-nl 151.0b8-1
+    Frisian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ga-ie 151.0b8-1
+    Irish language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-gd 151.0b8-1
+    Gaelic (Scotland) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-gl 151.0b8-1
+    Galician language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-gn 151.0b8-1
+    Guarani language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-gu-in 151.0b8-1
+    Gujarati (India) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-he 151.0b8-1
+    Hebrew language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-hi-in 151.0b8-1
+    Hindi (India) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-hr 151.0b8-1
+    Croatian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-hsb 151.0b8-1
+    Upper Sorbian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-hu 151.0b8-1
+    Hungarian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-hy-am 151.0b8-1
+    Armenian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ia 151.0b8-1
+    Interlingua language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-id 151.0b8-1
+    Indonesian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-is 151.0b8-1
+    Icelandic language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-it 151.0b8-1
+    Italian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ja 151.0b8-1
+    Japanese language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ka 151.0b8-1
+    Georgian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-kab 151.0b8-1
+    Kabyle language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-kk 151.0b8-1
+    Kazakh language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-km 151.0b8-1
+    Khmer language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-kn 151.0b8-1
+    Kannada language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ko 151.0b8-1
+    Korean language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-lij 151.0b8-1
+    Ligurian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-lt 151.0b8-1
+    Lithuanian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-lv 151.0b8-1
+    Latvian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-mk 151.0b8-1
+    Macedonian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-mr 151.0b8-1
+    Marathi language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ms 151.0b8-1
+    Malay language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-my 151.0b8-1
+    Burmese language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-nb-no 151.0b8-1
+    Norwegian (Bokmål) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ne-np 151.0b8-1
+    Nepali language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-nl 151.0b8-1
+    Dutch language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-nn-no 151.0b8-1
+    Norwegian (Nynorsk) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-oc 151.0b8-1
+    Occitan language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-pa-in 151.0b8-1
+    Punjabi (India) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-pl 151.0b8-1
+    Polish language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-pt-br 151.0b8-1
+    Portuguese (Brazilian) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-pt-pt 151.0b8-1
+    Portuguese (Portugal) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-rm 151.0b8-1
+    Romansh language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ro 151.0b8-1
+    Romanian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ru 151.0b8-1
+    Russian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-sat 151.0b8-1
+    Santali language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-sc 151.0b8-1
+    Sardinian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-sco 151.0b8-1
+    Scots language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-si 151.0b8-1
+    Sinhala language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-sk 151.0b8-1
+    Slovak language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-skr 151.0b8-1
+    Saraiki language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-sl 151.0b8-1
+    Slovenian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-son 151.0b8-1
+    Songhai language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-sq 151.0b8-1
+    Albanian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-sr 151.0b8-1
+    Serbian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-sv-se 151.0b8-1
+    Swedish language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-szl 151.0b8-1
+    Silesian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ta 151.0b8-1
+    Tamil language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-te 151.0b8-1
+    Telugu language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-tg 151.0b8-1
+    Tajik language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-th 151.0b8-1
+    Thai language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-tl 151.0b8-1
+    Tagalog language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-tr 151.0b8-1
+    Turkish language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-trs 151.0b8-1
+    Chicahuaxtla Triqui language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-uk 151.0b8-1
+    Ukrainian language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-ur 151.0b8-1
+    Urdu language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-uz 151.0b8-1
+    Uzbek language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-vi 151.0b8-1
+    Vietnamese language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-xh 151.0b8-1
+    Xhosa language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-zh-cn 151.0b8-1
+    Chinese (Simplified) language pack for Firefox Developer Edition
+extra/firefox-developer-edition-i18n-zh-tw 151.0b8-1
+    Chinese (Traditional) language pack for Firefox Developer Edition
+extra/firefox-extension-mailvelope 6.1.0-2 (firefox-addons)
+    Browser extension for OpenPGP encryption with Webmail
+extra/firefox-extension-passff 1.17.0-2 (firefox-addons)
+    zx2c4 pass manager addon for firefox
+extra/firefox-i18n-ach 150.0.1-1
+    Acholi language pack for Firefox
+extra/firefox-i18n-af 150.0.1-1
+    Afrikaans language pack for Firefox
+extra/firefox-i18n-an 150.0.1-1
+    Aragonese language pack for Firefox
+extra/firefox-i18n-ar 150.0.1-1
+    Arabic language pack for Firefox
+extra/firefox-i18n-ast 150.0.1-1
+    Asturian language pack for Firefox
+extra/firefox-i18n-az 150.0.1-1
+    Azerbaijani language pack for Firefox
+extra/firefox-i18n-be 150.0.1-1
+    Belarusian language pack for Firefox
+extra/firefox-i18n-bg 150.0.1-1
+    Bulgarian language pack for Firefox
+extra/firefox-i18n-bn 150.0.1-1
+    Bengali language pack for Firefox
+extra/firefox-i18n-bo 150.0.1-1
+    Lhasa Tibetan language pack for Firefox
+extra/firefox-i18n-bqi 150.0.1-1
+    Bakhtiari language pack for Firefox
+extra/firefox-i18n-br 150.0.1-1
+    Breton language pack for Firefox
+extra/firefox-i18n-brx 150.0.1-1
+    Boro (India) language pack for Firefox
+extra/firefox-i18n-bs 150.0.1-1
+    Bosnian language pack for Firefox
+extra/firefox-i18n-ca 150.0.1-1
+    Catalan language pack for Firefox
+extra/firefox-i18n-ca-valencia 150.0.1-1
+    Catalan (Valencian) language pack for Firefox
+extra/firefox-i18n-cak 150.0.1-1
+    Maya Kaqchikel language pack for Firefox
+extra/firefox-i18n-ckb 150.0.1-1
+    Central Kurdish language pack for Firefox
+extra/firefox-i18n-cs 150.0.1-1
+    Czech language pack for Firefox
+extra/firefox-i18n-cy 150.0.1-1
+    Welsh language pack for Firefox
+extra/firefox-i18n-da 150.0.1-1
+    Danish language pack for Firefox
+extra/firefox-i18n-de 150.0.1-1
+    German language pack for Firefox
+extra/firefox-i18n-dsb 150.0.1-1
+    Lower Sorbian language pack for Firefox
+extra/firefox-i18n-el 150.0.1-1
+    Greek language pack for Firefox
+extra/firefox-i18n-en-ca 150.0.1-1
+    English (Canadian) language pack for Firefox
+extra/firefox-i18n-en-gb 150.0.1-1
+    English (British) language pack for Firefox
+extra/firefox-i18n-en-us 150.0.1-1
+    English (US) language pack for Firefox
+extra/firefox-i18n-eo 150.0.1-1
+    Esperanto language pack for Firefox
+extra/firefox-i18n-es-ar 150.0.1-1
+    Spanish (Argentina) language pack for Firefox
+extra/firefox-i18n-es-cl 150.0.1-1
+    Spanish (Chile) language pack for Firefox
+extra/firefox-i18n-es-es 150.0.1-1
+    Spanish (Spain) language pack for Firefox
+extra/firefox-i18n-es-mx 150.0.1-1
+    Spanish (Mexico) language pack for Firefox
+extra/firefox-i18n-et 150.0.1-1
+    Estonian language pack for Firefox
+extra/firefox-i18n-eu 150.0.1-1
+    Basque language pack for Firefox
+extra/firefox-i18n-fa 150.0.1-1
+    Persian language pack for Firefox
+extra/firefox-i18n-ff 150.0.1-1
+    Fulah language pack for Firefox
+extra/firefox-i18n-fi 150.0.1-1
+    Finnish language pack for Firefox
+extra/firefox-i18n-fr 150.0.1-1
+    French language pack for Firefox
+extra/firefox-i18n-fur 150.0.1-1
+    Friulian language pack for Firefox
+extra/firefox-i18n-fy-nl 150.0.1-1
+    Frisian language pack for Firefox
+extra/firefox-i18n-ga-ie 150.0.1-1
+    Irish language pack for Firefox
+extra/firefox-i18n-gd 150.0.1-1
+    Gaelic (Scotland) language pack for Firefox
+extra/firefox-i18n-gl 150.0.1-1
+    Galician language pack for Firefox
+extra/firefox-i18n-gn 150.0.1-1
+    Guarani language pack for Firefox
+extra/firefox-i18n-gu-in 150.0.1-1
+    Gujarati (India) language pack for Firefox
+extra/firefox-i18n-he 150.0.1-1
+    Hebrew language pack for Firefox
+extra/firefox-i18n-hi-in 150.0.1-1
+    Hindi (India) language pack for Firefox
+extra/firefox-i18n-hr 150.0.1-1
+    Croatian language pack for Firefox
+extra/firefox-i18n-hsb 150.0.1-1
+    Upper Sorbian language pack for Firefox
+extra/firefox-i18n-hu 150.0.1-1
+    Hungarian language pack for Firefox
+extra/firefox-i18n-hy-am 150.0.1-1
+    Armenian language pack for Firefox
+extra/firefox-i18n-hye 150.0.1-1
+    Eastern Armenian language pack for Firefox
+extra/firefox-i18n-ia 150.0.1-1
+    Interlingua language pack for Firefox
+extra/firefox-i18n-id 150.0.1-1
+    Indonesian language pack for Firefox
+extra/firefox-i18n-is 150.0.1-1
+    Icelandic language pack for Firefox
+extra/firefox-i18n-it 150.0.1-1
+    Italian language pack for Firefox
+extra/firefox-i18n-ja 150.0.1-1
+    Japanese language pack for Firefox
+extra/firefox-i18n-ka 150.0.1-1
+    Georgian language pack for Firefox
+extra/firefox-i18n-kab 150.0.1-1
+    Kabyle language pack for Firefox
+extra/firefox-i18n-kk 150.0.1-1
+    Kazakh language pack for Firefox
+extra/firefox-i18n-km 150.0.1-1
+    Khmer language pack for Firefox
+extra/firefox-i18n-kn 150.0.1-1
+    Kannada language pack for Firefox
+extra/firefox-i18n-ko 150.0.1-1
+    Korean language pack for Firefox
+extra/firefox-i18n-lij 150.0.1-1
+    Ligurian language pack for Firefox
+extra/firefox-i18n-lo 150.0.1-1
+    Lao language pack for Firefox
+extra/firefox-i18n-lt 150.0.1-1
+    Lithuanian language pack for Firefox
+extra/firefox-i18n-ltg 150.0.1-1
+    Latgalian language pack for Firefox
+extra/firefox-i18n-lv 150.0.1-1
+    Latvian language pack for Firefox
+extra/firefox-i18n-meh 150.0.1-1
+    Southwestern Tlaxiaco Mixtec (Nuyoo Mixtec) language pack for Firefox
+extra/firefox-i18n-mk 150.0.1-1
+    Macedonian language pack for Firefox
+extra/firefox-i18n-ml 150.0.1-1
+    Malayalam language pack for Firefox
+extra/firefox-i18n-mr 150.0.1-1
+    Marathi language pack for Firefox
+extra/firefox-i18n-ms 150.0.1-1
+    Malay language pack for Firefox
+extra/firefox-i18n-my 150.0.1-1
+    Burmese language pack for Firefox
+extra/firefox-i18n-nb-no 150.0.1-1
+    Norwegian (Bokmål) language pack for Firefox
+extra/firefox-i18n-ne-np 150.0.1-1
+    Nepali language pack for Firefox
+extra/firefox-i18n-nl 150.0.1-1
+    Dutch language pack for Firefox
+extra/firefox-i18n-nn-no 150.0.1-1
+    Norwegian (Nynorsk) language pack for Firefox
+extra/firefox-i18n-oc 150.0.1-1
+    Occitan language pack for Firefox
+extra/firefox-i18n-pa-in 150.0.1-1
+    Punjabi (India) language pack for Firefox
+extra/firefox-i18n-pl 150.0.1-1
+    Polish language pack for Firefox
+extra/firefox-i18n-pt-br 150.0.1-1
+    Portuguese (Brazilian) language pack for Firefox
+extra/firefox-i18n-pt-pt 150.0.1-1
+    Portuguese (Portugal) language pack for Firefox
+extra/firefox-i18n-rm 150.0.1-1
+    Romansh language pack for Firefox
+extra/firefox-i18n-ro 150.0.1-1
+    Romanian language pack for Firefox
+extra/firefox-i18n-ru 150.0.1-1
+    Russian language pack for Firefox
+extra/firefox-i18n-sat 150.0.1-1
+    Santali language pack for Firefox
+extra/firefox-i18n-sc 150.0.1-1
+    Sardinian language pack for Firefox
+extra/firefox-i18n-scn 150.0.1-1
+    Sicilian language pack for Firefox
+extra/firefox-i18n-sco 150.0.1-1
+    Scots language pack for Firefox
+extra/firefox-i18n-si 150.0.1-1
+    Sinhala language pack for Firefox
+extra/firefox-i18n-sk 150.0.1-1
+    Slovak language pack for Firefox
+extra/firefox-i18n-skr 150.0.1-1
+    Saraiki language pack for Firefox
+extra/firefox-i18n-sl 150.0.1-1
+    Slovenian language pack for Firefox
+extra/firefox-i18n-son 150.0.1-1
+    Songhai language pack for Firefox
+extra/firefox-i18n-sq 150.0.1-1
+    Albanian language pack for Firefox
+extra/firefox-i18n-sr 150.0.1-1
+    Serbian language pack for Firefox
+extra/firefox-i18n-sv-se 150.0.1-1
+    Swedish language pack for Firefox
+extra/firefox-i18n-szl 150.0.1-1
+    Silesian language pack for Firefox
+extra/firefox-i18n-ta 150.0.1-1
+    Tamil language pack for Firefox
+extra/firefox-i18n-te 150.0.1-1
+    Telugu language pack for Firefox
+extra/firefox-i18n-tg 150.0.1-1
+    Tajik language pack for Firefox
+extra/firefox-i18n-th 150.0.1-1
+    Thai language pack for Firefox
+extra/firefox-i18n-tl 150.0.1-1
+    Tagalog language pack for Firefox
+extra/firefox-i18n-tr 150.0.1-1
+    Turkish language pack for Firefox
+extra/firefox-i18n-trs 150.0.1-1
+    Chicahuaxtla Triqui language pack for Firefox
+extra/firefox-i18n-uk 150.0.1-1
+    Ukrainian language pack for Firefox
+extra/firefox-i18n-ur 150.0.1-1
+    Urdu language pack for Firefox
+extra/firefox-i18n-uz 150.0.1-1
+    Uzbek language pack for Firefox
+extra/firefox-i18n-vi 150.0.1-1
+    Vietnamese language pack for Firefox
+extra/firefox-i18n-wo 150.0.1-1
+    Wolof language pack for Firefox
+extra/firefox-i18n-xh 150.0.1-1
+    Xhosa language pack for Firefox
+extra/firefox-i18n-zh-cn 150.0.1-1
+    Chinese (Simplified) language pack for Firefox
+extra/firefox-i18n-zh-tw 150.0.1-1
+    Chinese (Traditional) language pack for Firefox
+extra/firefox-noscript 13.6.6-1 (firefox-addons)
+    Extension for firefox which disables javascript
+extra/firefox-spell-ru 0.4.5.2resigned1-1
+    Russian spellchecker dictionary for Firefox
+extra/firefox-tree-style-tab 4.3.3-1 (firefox-addons)
+    Firefox extension to show tabs like a tree
+extra/firefox-tridactyl 1.24.5-1 (firefox-addons)
+    Replace Firefox's control mechanism with one modelled on Vim
+extra/firefox-ublock-origin 1.70.0-1 (firefox-addons)
+    Efficient blocker add-on for various browsers. Fast, potent, and lean
+extra/firefoxpwa 2.18.2-2
+    A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox (native component)
+extra/otf-fira-mono 2:3.206-5
+    Mozilla's monospace typeface designed for Firefox OS
+extra/otf-fira-sans 1:4.301-3
+    Mozilla's sans-serif typeface designed for Firefox OS
+extra/passff-host 1:1.2.5-3
+    PassFF native messaging host application for Firefox, Chromium, Chrome, Vivaldi
+extra/python-playwright 1.59.0-1
+    A Python library to automate Chromium, Firefox and WebKit browsers with a single API
+extra/ttf-fira-mono 2:3.206-5
+    Mozilla's monospace typeface designed for Firefox OS
+extra/ttf-fira-sans 1:4.301-3
+    Mozilla's sans-serif typeface designed for Firefox OS

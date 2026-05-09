@@ -1,0 +1,87 @@
+{
+    "resultcount": 2,
+    "results": [
+        {
+            "Depends": [
+                "pacman>6.1",
+                "git"
+            ],
+            "Description": "Yet another yogurt. Pacman wrapper and AUR helper written in go.",
+            "FirstSubmitted": 1475688004,
+            "ID": 1911141,
+            "Keywords": [
+                "arm",
+                "AUR",
+                "go",
+                "helper",
+                "pacman",
+                "wrapper",
+                "x86"
+            ],
+            "LastModified": 1765742501,
+            "License": [
+                "GPL-3.0-or-later"
+            ],
+            "Maintainer": "jguer",
+            "MakeDepends": [
+                "go>=1.24"
+            ],
+            "Name": "yay",
+            "NumVotes": 2575,
+            "OptDepends": [
+                "sudo",
+                "doas"
+            ],
+            "OutOfDate": null,
+            "PackageBase": "yay",
+            "PackageBaseID": 115973,
+            "Popularity": 51.778631,
+            "Submitter": "jguer",
+            "URL": "https://github.com/Jguer/yay",
+            "URLPath": "/cgit/aur.git/snapshot/yay.tar.gz",
+            "Version": "12.5.7-1"
+        },
+        {
+            "Depends": [
+                "git",
+                "pacman",
+                "libalpm.so>=14"
+            ],
+            "Description": "Feature packed AUR helper",
+            "FirstSubmitted": 1603068230,
+            "ID": 1908988,
+            "Keywords": [
+                "AUR",
+                "helper",
+                "pacman",
+                "rust",
+                "wrapper",
+                "yay"
+            ],
+            "LastModified": 1765515783,
+            "License": [
+                "GPL-3.0-or-later"
+            ],
+            "Maintainer": "Morganamilo",
+            "MakeDepends": [
+                "cargo"
+            ],
+            "Name": "paru",
+            "NumVotes": 1188,
+            "OptDepends": [
+                "bat",
+                "devtools"
+            ],
+            "OutOfDate": null,
+            "PackageBase": "paru",
+            "PackageBaseID": 158891,
+            "Popularity": 30.75725,
+            "Submitter": "Morganamilo",
+            "URL": "https://github.com/morganamilo/paru",
+            "URLPath": "/cgit/aur.git/snapshot/paru.tar.gz",
+            "Version": "2.1.0-2"
+        }
+    ],
+    "type": "multiinfo",
+    "version": 5
+}

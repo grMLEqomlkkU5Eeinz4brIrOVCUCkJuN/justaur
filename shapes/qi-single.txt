@@ -1,0 +1,26 @@
+Name            : chromium
+Version         : 148.0.7778.96-1
+Description     : A web browser built for speed, simplicity, and security
+Architecture    : x86_64
+URL             : https://www.chromium.org/Home
+Licenses        : BSD-3-Clause
+Groups          : None
+Provides        : None
+Depends On      : alsa-lib  dbus  desktop-file-utils  gtk3  hicolor-icon-theme  libcups  libffi  libgcrypt  libpulse  libva  libxss  nss  pciutils  systemd  ttf-liberation  xdg-utils  fontconfig  brotli  libjpeg-turbo  flac  libxml2  libwebp  minizip  opus  libxslt  harfbuzz  freetype2
+Optional Deps   : pipewire: WebRTC desktop sharing under Wayland [installed]
+                  kdialog: support for native dialogs in Plasma [installed]
+                  gtk4: for --gtk-version=4 (GTK4 IME might work better on Wayland) [installed]
+                  org.freedesktop.secrets: password storage backend on GNOME, KDE and Xfce [installed]
+                  upower: Battery Status API support [installed]
+Required By     : None
+Optional For    : None
+Conflicts With  : None
+Replaces        : None
+Installed Size  : 401.71 MiB
+Packager        : Christian Heusel <gromit@archlinux.org>
+Build Date      : Wed 06 May 2026 08:08:23 AM +08
+Install Date    : Thu 07 May 2026 09:26:10 PM +08
+Install Reason  : Explicitly installed
+Install Script  : No
+Validated By    : Signature
+
