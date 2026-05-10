@@ -24,7 +24,7 @@ pacman -Q | head -30 > "$OUT/q-list.txt" 2>&1
 pacman -Qm > "$OUT/qm-foreign.txt" 2>&1
 
 # -Qs: search installed
-pacman -Qs chromium | head -20 > "$OUT/qs-search.txt" 2>&1
+pacman -Qs chromium > "$OUT/qs-search.txt" 2>&1
 
 # AUR RPC: search
 curl -s "https://aur.archlinux.org/rpc/v5/search/yay?by=name" | python3 -m json.tool > "$OUT/aur-search.json" 2>&1
